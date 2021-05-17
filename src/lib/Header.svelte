@@ -1,5 +1,8 @@
-<header class="section">
-  <h1 class="title has-text-primary">
-    Welcome to SvelteKit
-  </h1>
-</header>
+<section class="hero is-info is-fullheight-with-navbar">
+  <div class="hero-body">
+    <p class="title">
+      waimate bball
+    </p>
+  </div>
+</section>
+
