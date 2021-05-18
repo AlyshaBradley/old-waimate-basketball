@@ -3,11 +3,11 @@
         <div id="navMenu" class="navbar-menu">
             <div class="navbar-start">
                 <a class="navbar-item" href="."> Home </a>
-                <a class="navbar-item" href="about-us.svelte"> About Us/History </a>
-                <a class="navbar-item" href="draws.svelte"> Draws </a>
-                <a class="navbar-item" href="results.svelte"> Results </a>
-                <a class="navbar-item" href="gallery.svelte"> Gallery </a>
-                <a class="navbar-item" href="contact.svelte"> Contact </a>
+                <a class="navbar-item" href="about-us"> About Us/History </a>
+                <a class="navbar-item" href="draws"> Draws </a>
+                <a class="navbar-item" href="results"> Results </a>
+                <a class="navbar-item" href="gallery"> Gallery </a>
+                <a class="navbar-item" href="contact"> Contact </a>
             </div>
         </div>
     </div>

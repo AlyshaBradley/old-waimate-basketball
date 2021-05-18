@@ -1,9 +1,15 @@
 <script>
-  import Header from "$lib/Header.svelte";
   import Nav from "$lib/Nav.svelte";
 </script>
 
-<Header />
+<section class="hero is-info is-fullheight-with-navbar">
+  <div class="hero-body">
+    <p class="title">
+      waimate bball
+    </p>
+  </div>
+</section>
+
 <Nav />
 
 <section class="section">
