@@ -1,4 +1,4 @@
-<section class="hero is-info is-fullheight-with-navbar">
+<section class="hero is-info with-navbar">
   <div class="hero-body">
     <p class="title">
       waimate bball
